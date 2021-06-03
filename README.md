@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Fardil Alif from Ipoh, Perak.
+- :walking:
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning PHP, JavaScript, HTML, CSS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
