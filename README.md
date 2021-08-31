@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Fardil Alif from Ipoh, Perak.
-- :walking: I'm pursuing Diploma In Computer Science from UiTM, Tapah Campus.
-- 👀 I’m interested to learn and gain more knowledge in Full Stack Development. Hoping to learn in depth about Full Stack Development.
-- 🌱 I’m currently learning PHP, JavaScript, HTML, CSS.  
+- 👋 Hi, I am Fardil Alif from 🇲🇾.
+- :walking: I am pursuing Diploma in Computer Science at UiTM, Tapah Campus.
+- 👀 I am interested in becoming a Full Stack developer.  
