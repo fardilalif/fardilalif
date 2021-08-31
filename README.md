@@ -1,3 +1,3 @@
-- 👋 Hi, I am Fardil Alif from :my:
+- 👋 Hi, I am Fardil Alif from :malaysia:
 - :walking: I am pursuing Diploma in Computer Science at UiTM, Tapah Campus.
 - 👀 I am interested in becoming a Full Stack developer.  
