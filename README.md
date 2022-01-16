@@ -1,3 +1,5 @@
-- Hi, I am Fardil Alif from :malaysia:
+- Fardil alif
+- 21
 - CS student
-- Learning MERN stack
+- Interested in full stack development
+- Learning MERN
