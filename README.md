@@ -2,4 +2,4 @@
 - 21
 - CS student
 - Interested in full stack development
-- Learning MERN
+- Learning MERN stack
