@@ -1,5 +1,2 @@
-- Fardil alif
-- 21
-- CS student
-- Interested in full stack development
-- Learning MERN stack
+- Fardil alif, 21
+- Focusing on back end development (Node JS)
