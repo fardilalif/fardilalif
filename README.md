@@ -1,2 +1,1 @@
-- Fardil alif, 21
-- Focusing on back end development (Node JS)
+React, React Native, Node JS
