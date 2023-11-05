@@ -1,1 +1,1 @@
-I play with Javascript and its endless frameworks :sweat_smile:
+Hello, I'm a computer science student who can somewhat code.
