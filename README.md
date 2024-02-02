@@ -1,5 +1,4 @@
-Hello, my name is Fardil and I'm a computer science student who can somewhat code.
-
-I'm mostly interested in Javascript frameworks.
-Currently, I'm learning the MERN stack.
+Greetings, I am Fardil, a computer science student who can somewhat code.
+I experiment primarily with Javascript and its frameworks and libraries.
+I am presently immersed in the MERN stack.
 
